@@ -17,3 +17,4 @@ Uses RAG to answer questions from document.
 
 ## AI Resume Screener with Ollama & LLama3
 - Analyzes a resume against a job description 
+- Returns a summary if resume is fit for the role or not.
