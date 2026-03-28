@@ -643,3 +643,122 @@ The safest options are reputable exchanges and peer-to-peer platforms with escro
 
 5. Is Bitcoin legal in Nigeria?
 Bitcoin is not banned in Nigeria, but regulations are strict. Banks cannot directly process crypto transactions, which is why most Nigerians use peer-to-peer trading. The government is slowly exploring clearer crypto regulations.
+
+Questions/Issue: How do I add my Bank details?
+Answer: 
+Adding your bank details is quick and easy. Here's how:
+Open the iPayBTC app
+Tap on P2P from the menu
+Select "Bank Details"
+Enter your account number and choose your bank from the list
+Save your details
+Important things to know:
+You can only register one bank account
+Your bank account name must match your verified name on iPayBTC
+
+Questions/Issue: How do I do my KYC?
+Answer: 
+KYC (identity verification) is required to unlock full access to iPayBTC. It's completed at Tier 3, the highest account level.
+Before you begin, make sure you have:
+Your NIN (National Identification Number) ready
+Good lighting for your liveness check (a quick face scan)
+Steps to complete your KYC:
+Open the app and tap your Profile icon
+Tap Verification Status
+Tap Upgrade to Level 3
+Enter your NIN and proceed
+Complete the liveness check (follow the on-screen prompts)
+Once done, you'll receive a success confirmation and your account will be upgraded to Level 3 ✓
+Good to know:
+KYC is only available after completing Tier 1 and Tier 2 verification
+Your NIN details must match your registered information on iPayBTC
+Ensure your face is clearly visible during the liveness check for a smooth experience
+
+
+ How long does it take to receive my Bitcoin On-chain 
+Answer: 
+It depends on which network is used to send your Bitcoin. iPayBTC supports two networks:
+Network
+Speed
+Cost
+Lightning Network
+Under 30 seconds
+Cheaper
+On-chain (Bitcoin Network)
+~10 minutes
+Higher fees
+
+To receive Bitcoin:
+On-chain: Transactions typically arrive within 10 minutes, but may take longer during periods of high network activity
+Lightning: Transactions arrive in under 30 seconds, near instant
+💡 Our recommendation: Always use the Lightning Network when possible,  it's faster and costs less in fees.
+
+
+Questions/Issue: Please How do I fund my iPayBTC account?
+Answer: 
+A: There are 3 ways to fund your iPayBTC account. Choose whichever works best for you:
+Option 1:  🔗 On-Chain (Bitcoin Network) Send Bitcoin directly to your iPayBTC wallet address using the Bitcoin on-chain network.
+Best for: Larger transfers from external wallets or exchanges
+Expected arrival: ~10 minutes
+Option 2:  ⚡ Lightning Network Send Bitcoin to your iPayBTC wallet using the Lightning Network.
+Best for: Fast, low-cost transfers
+Expected arrival: Under 30 seconds
+Option 3:  🤝 P2P (Buy from Merchants) Purchase Bitcoin directly from verified community merchants within the iPayBTC app.
+Best for: Users who want to buy Bitcoin using local payment methods
+No external wallet needed
+💡 Not sure which to use?
+Already have Bitcoin? Use Lightning for speed and lower fees
+New to Bitcoin? Try P2P to buy directly within the app
+
+Questions/Issue: How do I convert my Bitcoin to Cash?
+Answer:
+There are 2 ways to turn your Bitcoin into value on iPayBTC:
+Option 1: 💵 Sell on the P2P Marketplace Trade your Bitcoin directly with verified community merchants and receive cash in return.
+How to get started:
+Tap P2P from the app menu
+Select Sell
+Choose a merchant and enter the amount
+Follow the prompts to complete the trade and receive payment
+Option 2: 🛒 Spend Bitcoin Directly Skip the cash and use your Bitcoin to pay for everyday utilities straight from the app:
+📱 Airtime: Top up any mobile number
+🌐 Data: Buy data bundles instantly
+⚡ Electricity:  Pay your electricity bills directly
+💡 Quick Tip: If you need cash urgently, the P2P marketplace is your fastest route. If you just need to pay a bill, spending directly saves you an extra step!
+
+
+Questions/Issue: What's document type are you people asking me in upgrade to level 3
+Answer: 
+To upgrade your account to Level 3, only one document is required:
+🪪 NIN: National Identification Number Your NIN is a unique 11-digit number issued to you by the Nigerian government.
+Don't know your NIN? You can retrieve it by:
+Dialling *346# on any MTN line
+Visiting any NIMC office near you
+Checking your NIN slip if you've registered before
+💡 Please ensure your NIN details match the name on your iPayBTC account to avoid verification failure.
+
+Questions/Issue: How do I buy Data in the app?
+Answer: 
+Buying data on iPayBTC is quick and straightforward. Here's how:
+Steps to buy Data:
+Open the app and tap Explore
+Tap Buy Data
+Enter your phone number
+Select your preferred data bundle
+Confirm the details and tap Proceed to complete the purchase
+⚠️ Before you confirm:
+Double-check your phone number, data purchases cannot be reversed once processed
+Ensure you have sufficient Bitcoin balance in your iPayBTC wallet
+
+
+Questions/Issue: How do I buy Airtime in the app?
+Answer: 
+Buying Airtime on iPayBTC is quick and straightforward. Here's how:
+Steps to buy Data:
+Open the app and tap Explore
+Tap Buy Airtime
+Enter your phone number
+Enter the Amount
+Confirm the details and tap Proceed to complete the purchase
+⚠️ Before you confirm:
+Double-check your phone number, Airtime purchases cannot be reversed once processed
+Ensure you have sufficient Bitcoin balance in your iPayBTC wallet

@@ -13,3 +13,7 @@ Uses RAG to answer questions from document.
 - Create embeddings from chunks using transformers and all-MiniLM-L6-v2 model.
 - Creates a vector store to store embeddings with fiass library.
 - Answers questions from document by searching for closest embeddings and passing it to an open source question answering LLM.
+
+
+## AI Resume Screener with Ollama & LLama3
+- Analyzes a resume against a job description 
