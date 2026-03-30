@@ -12,3 +12,4 @@ openai
 python-dotenv
 langchain_chroma
 langchain-huggingface
+ddgs
